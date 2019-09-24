@@ -1,0 +1,60 @@
+Name: কম্বিনেটরিকসে হাতে খড়ি ২য় খণ্ড 
+Link: http://dimik.pub/book/456/introduction-to-combinatorics-part-2-by-adib-joydip-zawad 
+Image: http://dimik.pub/wp-content/uploads/2019/05/comb-2-1.jpg 
+Name: কৃতিকথন : টেক জগতের জিনিয়াসদের কথা 
+Link: http://dimik.pub/book/439/kritikothon-story-of-tech-geniuses-by-tamanna-nishat-rini 
+Image: http://dimik.pub/wp-content/uploads/2019/03/kriti-kothon-front-cover-350x450.jpg 
+Name: কম্বিনেটরিকসে হাতে খড়ি ১ম খণ্ড 
+Link: http://dimik.pub/book/432/introduction-to-combinatorics-part-1-by-adib-joydip-zawad 
+Image: http://dimik.pub/wp-content/uploads/2019/02/introductio-to-combinatorics-part-1-front-cover-350x450.jpg 
+Name: সবার জন্য উবুন্টু 
+Link: http://dimik.pub/book/412/ubuntu-for-all-by-nasir-khan 
+Image: http://dimik.pub/wp-content/uploads/2019/02/ubuntu-for-all-front-cover-350x450.jpg 
+Name: অ্যাডভান্সড জাভা প্রোগ্রামিং 
+Link: http://dimik.pub/book/410/advanced-java-programming-by-anm-bazlur-rahman 
+Image: http://dimik.pub/wp-content/uploads/2019/02/advanced-java-programming-front-cover-350x450.jpg 
+Name: হয়ে ওঠো একজন প্রবলেম সলভার 
+Link: http://dimik.pub/book/400/becoming-a-problem-solver-by-munem-ruhul 
+Image: http://dimik.pub/wp-content/uploads/2019/01/hoye-otho-ekjon-problem-solver-front-cover-350X450-.png 
+Name: প্রোগ্রামিং এক্সারসাইজ 
+Link: http://dimik.pub/book/372/programming-exercise-by-tahmid-rafi 
+Image: http://dimik.pub/wp-content/uploads/2019/01/programming-excercise-front-cover-350x450.jpg 
+Name: মেশিন লার্নিং অ‍্যালগরিদম 
+Link: http://dimik.pub/book/357/machine-learning-algorithm-by-nafis-neehal 
+Image: http://dimik.pub/wp-content/uploads/2018/09/42655899_2008793782745518_1418741273983975424_n.jpg 
+Name: কম্পিউটার প্রোগ্রামিং ১ম খণ্ড 
+Link: http://dimik.pub/book/351/computer-programming-part-1-by-tamim-shahriar 
+Image: http://dimik.pub/wp-content/uploads/2018/07/computer-programming-part-1-front-cover-350x450.jpg 
+Name: জাভা থ্রেড প্রোগ্রামিং 
+Link: http://dimik.pub/book/261/java-thread-programming-by-anm-bazlur-rahman 
+Image: http://dimik.pub/wp-content/uploads/2018/02/Java-Thread-Cover-Front-Small.jpg 
+Name: কম্বিনেটরিকসে হাতে খড়ি ২য় খণ্ড 
+Link: http://dimik.pub/book/456/introduction-to-combinatorics-part-2-by-adib-joydip-zawad 
+Image: http://dimik.pub/wp-content/uploads/2019/05/comb-2-1.jpg 
+Name: কৃতিকথন : টেক জগতের জিনিয়াসদের কথা 
+Link: http://dimik.pub/book/439/kritikothon-story-of-tech-geniuses-by-tamanna-nishat-rini 
+Image: http://dimik.pub/wp-content/uploads/2019/03/kriti-kothon-front-cover-350x450.jpg 
+Name: কম্বিনেটরিকসে হাতে খড়ি ১ম খণ্ড 
+Link: http://dimik.pub/book/432/introduction-to-combinatorics-part-1-by-adib-joydip-zawad 
+Image: http://dimik.pub/wp-content/uploads/2019/02/introductio-to-combinatorics-part-1-front-cover-350x450.jpg 
+Name: সবার জন্য উবুন্টু 
+Link: http://dimik.pub/book/412/ubuntu-for-all-by-nasir-khan 
+Image: http://dimik.pub/wp-content/uploads/2019/02/ubuntu-for-all-front-cover-350x450.jpg 
+Name: অ্যাডভান্সড জাভা প্রোগ্রামিং 
+Link: http://dimik.pub/book/410/advanced-java-programming-by-anm-bazlur-rahman 
+Image: http://dimik.pub/wp-content/uploads/2019/02/advanced-java-programming-front-cover-350x450.jpg 
+Name: হয়ে ওঠো একজন প্রবলেম সলভার 
+Link: http://dimik.pub/book/400/becoming-a-problem-solver-by-munem-ruhul 
+Image: http://dimik.pub/wp-content/uploads/2019/01/hoye-otho-ekjon-problem-solver-front-cover-350X450-.png 
+Name: প্রোগ্রামিং এক্সারসাইজ 
+Link: http://dimik.pub/book/372/programming-exercise-by-tahmid-rafi 
+Image: http://dimik.pub/wp-content/uploads/2019/01/programming-excercise-front-cover-350x450.jpg 
+Name: মেশিন লার্নিং অ‍্যালগরিদম 
+Link: http://dimik.pub/book/357/machine-learning-algorithm-by-nafis-neehal 
+Image: http://dimik.pub/wp-content/uploads/2018/09/42655899_2008793782745518_1418741273983975424_n.jpg 
+Name: কম্পিউটার প্রোগ্রামিং ১ম খণ্ড 
+Link: http://dimik.pub/book/351/computer-programming-part-1-by-tamim-shahriar 
+Image: http://dimik.pub/wp-content/uploads/2018/07/computer-programming-part-1-front-cover-350x450.jpg 
+Name: জাভা থ্রেড প্রোগ্রামিং 
+Link: http://dimik.pub/book/261/java-thread-programming-by-anm-bazlur-rahman 
+Image: http://dimik.pub/wp-content/uploads/2018/02/Java-Thread-Cover-Front-Small.jpg 
